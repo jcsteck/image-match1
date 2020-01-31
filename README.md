@@ -1,9 +1,9 @@
 Requires
 
--python
--numpy
--opencv
--scikit-image
+* python
+* numpy
+* opencv
+* scikit-image
 
 Original Script for Python 2 written by edwardanderson
 
